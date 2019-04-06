@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Kpopstation</string>
+    <string name="title_activity_menu"> </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="adUnitId">ca-app-pub-2931850328324162/8839184258</string>
+    <string name="ca_app_pub">ca-app-pub-2931850328324162~3800224969</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

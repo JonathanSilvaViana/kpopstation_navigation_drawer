@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/home_pink"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/eventos"
+            android:title="Eventos"
+            />
+        <item
+            android:id="@+id/nav_estudo"
+            android:icon="@drawable/estudos"
+            android:title="Estudo" />
+        <item
+            android:id="@+id/nav_social"
+            android:icon="@drawable/seguir"
+            android:title="Seguir KS" />
+
+        <item
+            android:id="@+id/nav_produtos"
+            android:icon="@drawable/produtos"
+            android:title="Produtos" />
+
+        <item
+            android:id="@+id/nav_promo"
+            android:icon="@drawable/promocoes"
+            android:title="Promoções" />
+
+        <item
+            android:id="@+id/nav_pp"
+            android:icon="@drawable/pp"
+            android:title="Patrocinadores" />
+
+        <item
+            android:id="@+id/sobre_nav"
+            android:icon="@drawable/sobre"
+            android:title="Sobre" />
+    </group>
+
+</menu>
